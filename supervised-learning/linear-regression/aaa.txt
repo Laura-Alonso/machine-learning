@@ -1,1 +1,9 @@
+Here you can find the following fields:
+
+HTML
+* linear-regression-theory-and-python.html --> Html with the explanations and the code. The output of the code is hidden under a button in each cell to make the reading easier.
+
+PYTHON
+* linear-regression-theory-and-python.py --> Python script with the same information as the html.
+* requirements.txt --> Field with the packages used in the script.
 
